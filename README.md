@@ -7,10 +7,8 @@ Also add your access key and secret key in provide.tf
 To test
 Just run
 
-To initialize terraform code and add versions and aws extension, do > terraform init
-**terraform init**
+To initialize terraform code and add versions and aws extension, do **terraform init**
 
-To apply the changes to aws console, do > terraform apply
-**terraform apply**
+To apply the changes to aws console, do **terraform apply**
 
 The infrastructure will be up in less than two minutes.
