@@ -1,7 +1,7 @@
 # Terraform-2-Tier-Application
 A 2 tier application created on AWS with terraform. 
 
-Before running, change the security group rule for ssh to your IP.
+Before running, change the security group rule for ssh to your IP. Also add your access key and secret key in provider.tf.
 
 To test
 Just run
