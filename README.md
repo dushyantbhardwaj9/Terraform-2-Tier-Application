@@ -7,7 +7,7 @@ Also add your access key and secret key in provide.tf
 To test
 Just run
 
-**terraform init
-terraform apply**
+**terraform init**
+**terraform apply**
 
 The infrastructure will be up in less than two minutes.
